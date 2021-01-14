@@ -32,7 +32,7 @@ By working on this proposal, you will already be taking your first steps towards
 
 ## Experiences
 
-- Have you taken Full stack development, ANgular7, Angular 10, Chrome extension building, CI/CD courses?
+- Have you taken Full stack development, Angular7, Angular 10, Chrome extension building, CI/CD courses?
 
 - What kind of projects have you worked in the past? What technologies did you use?
 
