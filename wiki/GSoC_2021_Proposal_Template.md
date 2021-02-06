@@ -56,3 +56,22 @@ GSoC has three evaluations, once after every 30 days. Highlight the work you pla
 
 How much time can you spend weekly on the project? Are you doing some other internship along with GSOC? What happens when your college reopens after the summer break?
 
+## Additional Information 
+
+If you would like to provide any other relevant information, please do so here.
+
+## What to expect from your mentor (and what your mentor expects from you)
+
+If you are selected to GSoC with Canvasbird, you can expect the following:
+- We recognize that the goals may change during the project, and the mentors will accept modifications to the goals at any time. But they are also expecting to see the reasonable effort go into the initial project timeline. Any changes to your goals or plan are expected to be immediately communicated to your mentor.
+- The scope of the project might change so as to fit in the duration of GSoC
+- Your mentor will establish a weekly, synchronous check-in with you.
+- In addition to that check-in, your mentor will discuss with you any specific status updates or any other regular communication they expect from you as well as which methods they prefer for documentation and collaboration (Google Docs, wiki, etc.).
+- The project plan and timeline you set forth in your application will also form a significant part of your mid-term and final evaluations.
+
+## What to expect from GSoC at Canvasbird
+
+We want you to have a productive, engaging summer. To that end:
+- We will schedule several events throughout the summer where you can interact with other GSoC students and the rest of the community.
+- You will have the opportunity to present your work to this broader community.		
+
