@@ -27,25 +27,8 @@ Please remember that you must submit your application to Google's GSoC portal. I
 
 ## Project Details
 
-- A very detailed description of the project idea.
-
-- Use flowcharts, diagrams and mocks as much as possible
-
-- Think about various tests that you will have to write
-
-- If your project involves writing APIs, what will those APIs look like
-
-- Discuss your assumptions
-
-- Mention your deliverables
-
-- Break down the bigger picture into smaller tasks and explain in detail each component of the pipeline. In planning your project, it is good to note where along the way you could formulate a pull request. These would be points where you can have a self-contained and well documented and tested piece of functionality. Doing this at several points during the summer helps to keep the branch merges reasonable and code reviews manageable. A big code dump at the end of the summer will likely be hard to review and merge before the project deadline.
-
-- If you have found existing work that we can build on top of - mention those.
-
-- If you plan to use a specific algorithm/layer/model/library/framework, mention them here.
-
-- Include technologies you are planning to use and your familiarity with them.
+Describe your project idea in as much detail as you can. Explain what APIs/algorithms/technologies you intend to use/study (if any). You can also include links to additional details like diagrams, mocks, flowcharts etc outlining your ideas acting as supplementary information for your proposal outside of this scope.
+The strongest proposals will help us understand why these features are a good idea. How will the features you propose help the project or its users?
 
 **We can't stress enough that we want specific details! We love details! Think of this section as a specifications document that you would give to a team of software engineers and designers to build the feature.**
 
