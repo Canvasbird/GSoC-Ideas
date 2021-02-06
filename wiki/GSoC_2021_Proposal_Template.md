@@ -25,23 +25,6 @@ Please remember that you must submit your application to Google's GSoC portal. I
 - What problem does your project solve and how does it impact Canvasbird?
 - What technologies will you be using ?
 
-## Timeline
-
-- Break down the entire projects into chunks and tell us what will you work on each week.
-As the summer goes on, you and your mentor will adjust your schedule, but it's good to have a plan at the beginning so you have an idea of where you're headed.
-- If you will be off-the-grid for a few days, then mention those in the timeline.
-GSoC has three evaluations, once after every 30 days. Highlight the work you plan to complete before each evaluation.
-- How many hours will you spend each week on your project ?
-- How will you report progress between evaluations ?
-- Discuss your post GSoC plans. Will you continue contributing to Sugar Labs after GSOC ends ?
-- You can refer to the [official guide](https://google.github.io/gsocguides/student/proposal-example-1) to get an idea. 
-
-## OpenSource Contributions
-
-- If you have contributed to Canvasbird or any other open source project, please provide the link of the pull requests with one-line description of the feature you added or the bug you fixed.
-- If you have contributed by opening issues or conducting events, feel free to mention that as well.
-
-
 ## Project Details
 
 - A very detailed description of the project idea.
@@ -70,6 +53,21 @@ If you aren't sure about the details you are supposed to include in here, then a
 
 While we understand this is preliminary and will get refined over the course of the summer with help from the mentor, it will help you plan the project much better. Think of this section as what you would give to the executives of a company who cares only about when will it get done. Not how will it get done, but when will it get done!
 
+## Timeline
+
+- Break down the entire projects into chunks and tell us what will you work on each week.
+As the summer goes on, you and your mentor will adjust your schedule, but it's good to have a plan at the beginning so you have an idea of where you're headed.
+- If you will be off-the-grid for a few days, then mention those in the timeline.
+GSoC has three evaluations, once after every 30 days. Highlight the work you plan to complete before each evaluation.
+- How many hours will you spend each week on your project ?
+- How will you report progress between evaluations ?
+- Discuss your post GSoC plans. Will you continue contributing to Sugar Labs after GSOC ends ?
+- You can refer to the [official guide](https://google.github.io/gsocguides/student/proposal-example-1) to get an idea. 
+
+## OpenSource Contributions
+
+- If you have contributed to Canvasbird or any other open source project, please provide the link of the pull requests with one-line description of the feature you added or the bug you fixed.
+- If you have contributed by opening issues or conducting events, feel free to mention that as well.
 
 ## Time Commitment
 
