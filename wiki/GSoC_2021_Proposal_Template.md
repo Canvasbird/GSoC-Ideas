@@ -44,7 +44,7 @@ As the summer goes on, you and your mentor will adjust your schedule, but it's g
 GSoC has three evaluations, once after every 30 days. Highlight the work you plan to complete before each evaluation.
 - How many hours will you spend each week on your project ?
 - How will you report progress between evaluations ?
-- Discuss your post GSoC plans. Will you continue contributing to Sugar Labs after GSOC ends ?
+- Discuss your post GSoC plans. Will you continue contributing to Canvasbird after GSOC ends ?
 - You can refer to the [official guide](https://google.github.io/gsocguides/student/proposal-example-1) to get an idea. 
 
 ## OpenSource Contributions
