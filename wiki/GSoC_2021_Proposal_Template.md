@@ -1,6 +1,6 @@
-## GSoC 2021 Proposale Template
+## GSoC 2021 Proposal Template
 
-This template is for participant applying to Google Summer of Code. It is a very important step in the process. By working on this proposal you will have a clearer idea about the project and it will also give us a chance to get to know you. Please be realistic and honest while writing this proposal. 
+This template is for participants applying to Google Summer of Code. It is a very important step in the process. By working on this proposal you will have a clearer idea about the project and it will also give us a chance to get to know you. Please be realistic and honest while writing this proposal. 
 
 You can also refer [Google's guide to Writing a Proposal](https://google.github.io/gsocguides/student/writing-a-proposal)
 
@@ -34,11 +34,11 @@ The strongest proposals will help us understand why these features are a good id
 
 If you aren't sure about the details you are supposed to include in here, then ask for feedback from mentors. They will point out missing details, inconsistencies etc.
 
-While we understand this is preliminary and will get refined over the course of the summer with help from the mentor, it will help you plan the project much better. Think of this section as what you would give to the executives of a company who cares only about when will it get done. Not how will it get done, but when will it get done!
+While we understand this is preliminary and will get refined over the course of the summer with help from the mentor, it will help you plan the project much better. Think of this section as what you would give to the executives of a company who cares only about when will it get done. Not how it will get done, but when will it get done!
 
 ## Timeline
 
-- Break down the entire projects into chunks and tell us what will you work on each week.
+- Break down the entire project into chunks and tell us what you will work on each week.
 As the summer goes on, you and your mentor will adjust your schedule, but it's good to have a plan at the beginning so you have an idea of where you're headed.
 - If you will be off-the-grid for a few days, then mention those in the timeline.
 GSoC has three evaluations, once after every 30 days. Highlight the work you plan to complete before each evaluation.
@@ -49,7 +49,7 @@ GSoC has three evaluations, once after every 30 days. Highlight the work you pla
 
 ## OpenSource Contributions
 
-- If you have contributed to Canvasbird or any other open source project, please provide the link of the pull requests with one-line description of the feature you added or the bug you fixed.
+- If you have contributed to Canvasbird or any other open source project, please provide the link of the pull requests with a one-line description of the feature you added or the bug you fixed.
 - If you have contributed by opening issues or conducting events, feel free to mention that as well.
 
 ## Time Commitment
@@ -67,7 +67,7 @@ If you are selected to GSoC with Canvasbird, you can expect the following:
 - The scope of the project might change so as to fit in the duration of GSoC
 - Your mentor will establish a weekly, synchronous check-in with you.
 - In addition to that check-in, your mentor will discuss with you any specific status updates or any other regular communication they expect from you as well as which methods they prefer for documentation and collaboration (Google Docs, wiki, etc.).
-- The project plan and timeline you set forth in your application will also form a significant part of your mid-term and final evaluations.
+- The project plan and timeline you set forth in your application will also form a significant part of your midterm and final evaluations.
 
 ## What to expect from GSoC at Canvasbird
 
