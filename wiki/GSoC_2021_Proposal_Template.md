@@ -16,7 +16,6 @@ Please remember that you must submit your application to Google's GSoC portal. I
 - Full Name
 - Email ID and Github Username
 - Location & Time Zone (This will have no impact on your selection.)
-- Github Username
 - Share links, if any, of your previous work on open source projects
 - Anything else you would like us to know.
 
