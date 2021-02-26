@@ -1,4 +1,4 @@
-## PROJECT 1 - Enhancing Canvasboard User Interface
+## PROJECT 1 - Enhancement in Canvasboard Frontend
 
 **DESCRIPTION**
 
